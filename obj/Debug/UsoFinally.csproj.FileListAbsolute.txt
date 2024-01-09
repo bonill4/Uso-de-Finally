@@ -1,0 +1,8 @@
+C:\Users\willi\source\repos\UsoFinally\bin\Debug\UsoFinally.exe.config
+C:\Users\willi\source\repos\UsoFinally\bin\Debug\UsoFinally.exe
+C:\Users\willi\source\repos\UsoFinally\bin\Debug\UsoFinally.pdb
+C:\Users\willi\source\repos\UsoFinally\obj\Debug\UsoFinally.csproj.AssemblyReference.cache
+C:\Users\willi\source\repos\UsoFinally\obj\Debug\UsoFinally.csproj.SuggestedBindingRedirects.cache
+C:\Users\willi\source\repos\UsoFinally\obj\Debug\UsoFinally.csproj.CoreCompileInputs.cache
+C:\Users\willi\source\repos\UsoFinally\obj\Debug\UsoFinally.exe
+C:\Users\willi\source\repos\UsoFinally\obj\Debug\UsoFinally.pdb
